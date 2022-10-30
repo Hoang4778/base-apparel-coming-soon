@@ -6,4 +6,4 @@ This is one of my challenges on Frontend Mentor website, it is a simple responsi
 
 ## Project setup
 
-Simply download the code and open the `index.html` file directly or your text editor using Live Server
+Simply download the code and open the `index.html` file directly or your text editor using Live Server.
